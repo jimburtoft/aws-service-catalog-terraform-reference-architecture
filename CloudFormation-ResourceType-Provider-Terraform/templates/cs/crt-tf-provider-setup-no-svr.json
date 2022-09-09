@@ -14,7 +14,6 @@
     },
     "ParameterSSHFingerprint": {
       "Description": "TerraformSSHFingerprintParameter",
-      "Type": "String"
     },
     "ParameterSSHHost": {
       "Description": "TerraformSSHHostParameter must be internet accessable",
@@ -96,7 +95,7 @@
           ]
         },
         "Timeout": 240,
-        "Runtime": "python2.7"
+        "Runtime": "python3.9"
       }
     },
     "CopyFromSourceRun": {
