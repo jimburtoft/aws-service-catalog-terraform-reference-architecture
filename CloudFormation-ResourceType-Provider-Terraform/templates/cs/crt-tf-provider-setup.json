@@ -623,7 +623,7 @@
                     ]
                 }, 
                 "Timeout": 240, 
-                "Runtime": "python2.7"
+                "Runtime": "python3.9"
             }
         }, 
         "HoldingBucket": {
